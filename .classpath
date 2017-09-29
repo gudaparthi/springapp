@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Anusha/Desktop/Tomcat 9.0/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anusha/Desktop/Tomcat 9.0/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anusha/Desktop/Tomcat 9.0/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anusha/Desktop/Tomcat 9.0/bin/tomcat-juli.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

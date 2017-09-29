@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified file - hi hello how are you?
+=======
+hi hello how are you?
+>>>>>>> 48093e6eaa3c4e943a33ba5a639f4c3a68734295
